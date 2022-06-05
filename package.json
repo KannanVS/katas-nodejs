@@ -1,0 +1,19 @@
+{
+  "name": "katas-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs big parsing katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KannanVS/katas-nodejs.git"
+  },
+  "author": "Kannan.VS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KannanVS/katas-nodejs/issues"
+  },
+  "homepage": "https://github.com/KannanVS/katas-nodejs#readme"
+}
